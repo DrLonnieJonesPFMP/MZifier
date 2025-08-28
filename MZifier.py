@@ -14,7 +14,7 @@ GitHub:
 Sponsor Link: 
 
 ---------------------
-mv_to_mz_converter.py
+MZifier.py
 ---------------------
 What it does (heuristics, not a full JS transpiler):
 - Adds "@target MZ" to the plugin header if missing.
@@ -26,8 +26,8 @@ What it does (heuristics, not a full JS transpiler):
 - Writes a report of all replacements performed.
 
 Usage:
-  python mv_to_mz_converter.py INPUT.js [-o OUTPUT.js] [--inplace] [--no-color] [--keep-mv-color]
-  python mv_to_mz_converter.py --batch plugins/*.js
+  python mzifier.py INPUT.js [-o OUTPUT.js] [--inplace] [--no-color] [--keep-mv-color]
+  python mzifier.py --batch plugins/*.js
 
 Notes:
 - This is deliberately conservative. It avoids touching uncertain code.
