@@ -9,5 +9,3 @@ Instructions:
 2. Move the script to the same folder as the executable
 3. Use mzifier.exe script_name.js
 4. The new script will be converted to script_name_MZ.js in the same folder
-
-Creative Commons 4.0 with Attribution license
