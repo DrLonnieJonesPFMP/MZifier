@@ -1,0 +1,2 @@
+Conversion report for basic_plugin.js -> basic_plugin_MZ.js
+- Added '@target MZ' to plugin header.
