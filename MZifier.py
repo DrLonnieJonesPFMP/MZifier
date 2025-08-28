@@ -2,7 +2,7 @@
 """
 Author: Lonnie S. Jones
 Company: Paradise Union
-Version: 25.22.8.0.10a
+Version: 25.8.22.0.10a
 Date: 8/22/25
 Tite: MZifier
 Description: A converter that helps migrate RPG Maker MV plugin to RPG Maker MZ.
